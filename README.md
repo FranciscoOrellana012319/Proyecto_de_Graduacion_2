@@ -40,19 +40,19 @@ Debera cambiar el nombre de la carpeta donde descargo el proyecto para su buen f
 
 **#4** Una vez completados los pasos anteriores vamos a proceder a probar nuestro sistema en este caso es una tienda en linea:
 
-* Para poder entrar a la tienda en linea vamos a utilizar la siguiente url: **localhost/Tienda/**
+* Para poder entrar a la tienda en linea vamos a pegar o a escribir en nuestro navegador web la siguiente url: **localhost/Tienda/**
 
-* Para poder entrar en la parte administrativa de la tienda en liena vamos a pegar en nuestro navegador la siguiente url: **localhost/tienda/admin**
+* Para poder entrar en la parte administrativa de la tienda en liena vamos a pegar o a escribir en nuestro navegador web la siguiente url: **localhost/tienda/admin**
 
-  Para poder ingresar en la parte administrativa vamos se usara el siguiente Usuario y contraseña
+  Para poder ingresar en la parte administrativa se usara el siguiente Usuario y contraseña
   
   **Usuario** Administrador
   
   **Contraseña** Administravor
 
 ## Recomendaciones 
-Como el proyecto se trabajo por sesiones a la hora de abrir la parte administrativa y loguearse, asi mismo abrir en el mismo navegador y al mismo tiempo la parte de la tienda 
-en linea esta se logueara por defecto con el usuario que este abierto en la parte Administrativa, por eso se dan las siguientes recomendaciones:
+Como el proyecto se trabajo por sesiones a la hora de abrir la parte administrativa y loguearse, asi mismo abrir en el mismo navegador al mismo tiempo la parte de la tienda 
+en linea, esta se logueara por defecto con el usuario que este abierto en la parte Administrativa, por eso se dan las siguientes recomendaciones:
 
 * No ingresar en el mismo dispositivo con cargos diferentes (en este caso en el mismo navegador).
 * Solo tener una sesión activa ya sea en la parte administrativa o el parte cliente (tienda en linea)
