@@ -22,7 +22,15 @@ C:\xampp\htdocs
 
 * Crear una nueva base de datos llamada **tienda**
 
-* Ya creada la base de datos, importamos los datos de nuestro proyecto con el archivo llamado **tienda.sql**
+
+![Tienda base datos](https://user-images.githubusercontent.com/61365060/134234340-52ba85d2-a2bd-453c-9cb3-d6c238ecc97a.png)
+
+* Ya creada la base de datos, importamos los datos de nuestro proyecto con el archivo llamado **tienda.sql**, este archivo esta contenido en la carpeta de nuestro proyecto llamada **DataBase**
+
+
+![Importar](https://user-images.githubusercontent.com/61365060/134234363-36f148ff-6053-45f5-8159-88f1a21b12fc.png)
+
+
 
 
 
