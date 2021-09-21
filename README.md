@@ -16,7 +16,11 @@ C:\xampp\htdocs
 
 ![RutaXampp](https://user-images.githubusercontent.com/61365060/134230998-149a80c7-39c9-4a9a-8661-7163cf69f841.png)
 
-#3 Despues de haber descargado y pegado el proyecto en la carpeta del servidor local, vamos a abrir 
+#3 Despues de haber descargado y pegado el proyecto en la carpeta del servidor local, vamos a crear la base de datos para nuestro proyecto y debemos hacer lo siguiente:
+
+* Abrir phpMyAdmin en nuestro servidor local
+
+* 
 
 
 
