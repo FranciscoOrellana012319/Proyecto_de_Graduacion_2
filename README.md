@@ -13,3 +13,9 @@ https://www.apachefriends.org/es/index.html
 si esta usando XAMPP la ruta sera: 
 
 C:\xampp\htdocs
+
+
+
+
+
+
