@@ -19,7 +19,6 @@ C:\xampp\htdocs
 #3 Despues de haber descargado y pegado el proyecto en la carpeta del servidor local, vamos a crear la base de datos para nuestro proyecto y debemos hacer lo siguiente:
 
 * Abrir phpMyAdmin en nuestro servidor local o el gestor base de datos virtual que este usando
-![image](https://user-images.githubusercontent.com/61365060/134232834-4ffdef34-fba5-499b-937b-649458c4a7e4.png)
 
 * Crear una nueva base de datos llamada **tienda**
 
