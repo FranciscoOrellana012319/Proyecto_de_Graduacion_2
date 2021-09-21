@@ -7,3 +7,4 @@ su computador asi lo debera descargar. Link de descarga:
 
 https://www.apachefriends.org/es/index.html
 
+![XAMPP](https://user-images.githubusercontent.com/61365060/134227143-92fa59b9-1b9e-472d-8c06-86ba0f5ac7c2.png)
