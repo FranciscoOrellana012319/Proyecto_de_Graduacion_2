@@ -46,12 +46,12 @@ Debera cambiar el nombre de la carpeta donde descargo el proyecto para su buen f
 
   Para poder ingresar en la parte administrativa se usara el siguiente Usuario y contraseña
   
-  **Usuario** Administrador
+  **Usuario:** Administrador
   
-  **Contraseña** Administravor
+  **Contraseña:** Administravor
 
 ## Recomendaciones 
-Como el proyecto se trabajo por sesiones a la hora de abrir la parte administrativa y loguearse, asi mismo abrir en el mismo navegador al mismo tiempo la parte de la tienda 
+Como el proyecto se trabajo por sesiones (fue lo más optimo), a la hora de abrir la parte administrativa y loguearse, asi mismo abrir en el mismo navegador al mismo tiempo la parte de la tienda 
 en linea, esta se logueara por defecto con el usuario que este abierto en la parte Administrativa, por eso se dan las siguientes recomendaciones:
 
 * No ingresar en el mismo dispositivo con cargos diferentes (en este caso en el mismo navegador).
