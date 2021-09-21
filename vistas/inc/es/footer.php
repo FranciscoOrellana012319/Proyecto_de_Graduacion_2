@@ -7,7 +7,7 @@
                 <p class="text-justify lead"  style="text-align:center" style="padding-bottom: 50px;">
                     
                          Si tienes alguna duda o consulta puedes escribirnos a nuestro numero de 
-                     <a href="https://wa.me/message/QSLYHOPMZMITC1" target="_blank">Whatsapp Variededaes Tu Diseño</a>
+                     <a href="https://wa.me/message/QSLYHOPMZMITC1" target="_blank">Whatsapp Variedades Tu Diseño</a>
                 </p>
             </div>
             <div class="col-12 col-md-4 mb-4">
@@ -24,7 +24,7 @@
             </div>
             <div class="col-12 col-md-4 mb-4">
                 <ul class="list-unstyled" >
-                    <li><h5 class="font-weight-bold" >Sigueme en:</h5> </li>
+                    <li><h5 class="font-weight-bold" >Síguenos en:</h5> </li>
                     <?php if(FACEBOOK!=""){ ?>
                     <li>
                         <a href="<?php echo FACEBOOK; ?>" class="footer-link" target="_blank" >
