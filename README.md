@@ -13,6 +13,7 @@ https://www.apachefriends.org/es/index.html
 si esta usando XAMPP la ruta sera: 
 
 C:\xampp\htdocs
+
 ![RutaXampp](https://user-images.githubusercontent.com/61365060/134230998-149a80c7-39c9-4a9a-8661-7163cf69f841.png)
 
 
