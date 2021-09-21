@@ -59,13 +59,12 @@ en linea esta se logueara por defecto con el usuario que este abierto en la part
 * Solo se recomienda usar al mismo tiempo (en el mismo navegador) la parte administrativa y la tienda en linea para la tarea de visualizar los productos correctamente.
 * Si probara la parte de la tienda en linea (en la parte de pedidos, de registro y login de cliente) y la parte administrativa al mismo tiempo, se recomienda usar un navegador distinto en el que probara la tienda en linea y en el que probara la parte administrativa.
 
-## Video explicando el correcto funcionamiento del sistema que es una tienda en linea:
+## Video explicando el correcto funcionamiento del sistema el cual es una tienda en linea:
 
 ## Sistema subido a un servidor web:
 El sistema de la empresa Variedades tu diseño se esta usando por el momento para pruebas con clientes reales en un servidor web.
 
-Para poder ingresar en la parte de la tienda en linea (parte de clientes) la url es la siguiente: http://variedadestd.epizy.com/
-
+Para poder ingresar en la parte de la **tienda en linea** (parte de clientes) la url es la siguiente: http://variedadestd.epizy.com/
 Para poder ingresar en la parte **administrativa** la url es la siguiente: http://variedadestd.epizy.com/admin
 
 
