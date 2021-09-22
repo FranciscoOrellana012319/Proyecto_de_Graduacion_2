@@ -42,7 +42,7 @@
         <div class="col-12 col-md-6">
             <h3 class="text-center text-uppercase poppins-regular font-weight-bold">Crea tu cuenta</h3>
             <p class="text-justify">
-                Crea tu cuenta para poder realizar pedidos de productos hasta la puesta de tu casa, es muy fácil y rápido.
+                Crea antes tu cuenta para así poder realizar pedidos de tus productos favoritos, es muy fácil y rápido.
             </p>
             <p class="text-center">
                 <a href="<?php echo SERVERURL; ?>registration/" class="btn btn-primary" >Crear cuenta</a>
