@@ -50,6 +50,7 @@ Debera cambiar el nombre de la carpeta donde descargo el proyecto para su buen f
   
   **Contraseña:** Administravor
 
+**#5** El sistema se subio a Github sin información, por la razon de que se puedan hacer todas las pruebas correspondientes (agregar productos, hacer pedidos, entre muchas funciones más)
 ## Recomendaciones 
 Como el proyecto se trabajo por sesiones (fue lo más optimo), a la hora de abrir la parte administrativa y loguearse, asi mismo abrir en el mismo navegador al mismo tiempo la parte de la tienda 
 en linea, esta se logueara por defecto con el usuario que este abierto en la parte Administrativa, por eso se dan las siguientes recomendaciones:
@@ -58,10 +59,6 @@ en linea, esta se logueara por defecto con el usuario que este abierto en la par
 * Solo tener una sesión activa ya sea en la parte administrativa o el parte cliente (tienda en linea)
 * Solo se recomienda usar al mismo tiempo (en el mismo navegador) la parte administrativa y la tienda en linea para la tarea de visualizar los productos correctamente.
 * Si probara la parte de la tienda en linea (en la parte de pedidos, de registro y login de cliente) y la parte administrativa al mismo tiempo, se recomienda usar un navegador distinto en el que probara la tienda en linea y en el que probara la parte administrativa.
-
-## Video explicando el correcto funcionamiento del sistema el cual es una tienda en linea:
-
-https://youtu.be/VK7vB91KP8M
 
 
 ## Sistema subido a un servidor web:
@@ -72,6 +69,13 @@ El sistema de la empresa Variedades tu diseño se esta usando por el momento par
 *Para poder ingresar en la parte **administrativa** la url es la siguiente: http://variedadestd.epizy.com/admin
 
  Por el momento se usara el **usuario** Administrador y la **clave** Administrador.
+ 
+
+## Video explicando el correcto funcionamiento del sistema el cual es una tienda en linea:
+
+https://youtu.be/VK7vB91KP8M
+
+
 
 
 
