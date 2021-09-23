@@ -61,6 +61,9 @@ en linea, esta se logueara por defecto con el usuario que este abierto en la par
 
 ## Video explicando el correcto funcionamiento del sistema el cual es una tienda en linea:
 
+https://youtu.be/VK7vB91KP8M
+
+
 ## Sistema subido a un servidor web:
 El sistema de la empresa Variedades tu diseño se esta usando por el momento para pruebas con clientes reales en un servidor web.
 
