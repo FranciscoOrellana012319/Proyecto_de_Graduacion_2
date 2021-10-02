@@ -52,7 +52,7 @@ Debera cambiar el nombre de la carpeta donde descargo el proyecto para su buen f
 
 **#5** El sistema se subio a Github sin información, por la razon de que se puedan hacer todas las pruebas correspondientes (agregar productos, hacer pedidos, entre muchas funciones más)
 
-Habra una carpeta llamada **Imagenes de productos**, que estara ubicada el parte principal del los archivos del proyecto,la cual se podra usar para las pruebas correspodientes de los productos de la empresa y las demás pruebas.
+Abrá una carpeta llamada **Imagenes de productos**, que estara ubicada el parte principal del los archivos del proyecto,la cual se podra usar para las pruebas correspodientes de los productos de la empresa y las demás pruebas.
 
 
  
