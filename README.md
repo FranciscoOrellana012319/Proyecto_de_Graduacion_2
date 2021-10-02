@@ -55,15 +55,6 @@ Debera cambiar el nombre de la carpeta donde descargo el proyecto para su buen f
 Habra una carpeta llamada **Imagenes de productos**, que estara ubicada el parte principal del los archivos del proyecto,la cual se podra usar para las pruebas correspodientes de los productos de la empresa y las demás pruebas.
 
 
-
-## Sistema subido a un servidor web:
-El sistema de la empresa Variedades tu diseño se esta usando por el momento para pruebas con clientes reales en un servidor web.
-
-*Para poder ingresar en la parte de la **tienda en linea** (parte de clientes) la url es la siguiente: http://variedadestd.epizy.com/
-
-*Para poder ingresar en la parte **administrativa** la url es la siguiente: http://variedadestd.epizy.com/admin
-
- Por el momento se usara el **usuario** Administrador y la **clave** Administrador.
  
  ## Recomendaciones 
 Como el proyecto se trabajo por sesiones (fue lo más optimo), a la hora de abrir la parte administrativa y loguearse, asi mismo abrir en el mismo navegador al mismo tiempo la parte de la tienda 
