@@ -58,11 +58,11 @@ Abrá una carpeta llamada **Imagenes de productos**, que estara ubicada el parte
 ## Sistema subido a un servidor web:
 El sistema de la empresa Variedades tu diseño se esta usando por el momento para pruebas con clientes reales en un servidor web.
 
-*Para poder ingresar en la parte de la **tienda en linea** (parte de clientes) la url es la siguiente: http://variedadestd.epizy.com/
+* Para poder ingresar en la parte de la **tienda en linea** (parte de clientes) la url es la siguiente: http://variedadestd.epizy.com/
 
-*Para poder ingresar en la parte **administrativa** la url es la siguiente: http://variedadestd.epizy.com/admin
+* Para poder ingresar en la parte **administrativa** la url es la siguiente: http://variedadestd.epizy.com/admin
 
- Por el momento se usara el **usuario** Administrador y la **clave** Administrador.
+    Por el momento se usara el **usuario** Administrador y la **clave** Administrador.
 
 
 
